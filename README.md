@@ -7,3 +7,5 @@ https://eloratings.net/
 
 player data across 5 big league
 https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025
+
+fbref data scraping for club match history
